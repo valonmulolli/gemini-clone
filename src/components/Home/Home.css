@@ -183,13 +183,13 @@
 @media (max-width: 600px) {
 	.main-bottom input {
 		flex: none;
-		width: 150px;
+		width: 200px;
 	}
 	.main-bottom img {
 		width: 20px;
 	}
 	.search-box {
-		padding: 5px 10px;
+		padding: 5px 5px;
 	}
 	.search-box div {
 		gap: 5px;
